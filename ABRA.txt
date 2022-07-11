@@ -1,0 +1,21 @@
+ELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM "my 1st SQL class".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM "my 1st SQL class".sqlite_master;
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+SELECT COUNT(*) FROM "main"."COMPANY"
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM "my 1st SQL class".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM "my 1st SQL class".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
